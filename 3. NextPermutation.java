@@ -3,7 +3,7 @@ import java.io.*;
 import java.util.ArrayList;
 import java.util.Collections;
 
-public class Solution 
+ class Solution 
 {
 	public static ArrayList<Integer> nextPermutation(ArrayList<Integer> permutation) 
 	{
