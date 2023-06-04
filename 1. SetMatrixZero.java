@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.* ;
 
-public class Solution {
+ class Solution {
     public static void setZeros(int matrix[][]) {
         int colZero = 1;
         for(int i = 0; i < matrix.length; i++){
